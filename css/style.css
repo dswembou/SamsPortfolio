@@ -60,12 +60,6 @@ section {
     gap: 20px;
     flex-wrap: wrap;
 }
-
-/*
-BUG 4:
-De HTML gebruikt .project
-maar CSS verwacht .project-card
-*/
 .project-card {
     background-color: white;
     padding: 20px;
